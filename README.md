@@ -22,6 +22,10 @@ python CVE-2021-31166.py -u http://192.168.243.129 -o output.txt
 python CVE-2022-21907.py -l subdomain.txt -o output.txt
 ```
 
+## PoC
+![PoC](https://user-images.githubusercontent.com/63053441/203288776-fa440266-7137-4348-9240-f519c634d0e3.GIF)
+
+
 ## Legal Disclaimer: 
 
 Usage of "Home-Demolisher
